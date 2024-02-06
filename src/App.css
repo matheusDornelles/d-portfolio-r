@@ -545,6 +545,7 @@ input[type="checkbox"] {
   list-style: none;
   display: flex;
   justify-content: flex-end;
+  
   align-items: center;
   gap: 16px;
   flex-shrink: 0;
@@ -730,7 +731,7 @@ input[type="checkbox"] {
     z-index: -100;
   }
   .navbar--items ul li {
-    text-align: center;
+    text-align: flex;
   }
   .navbar--items ul li a {
     padding: 0.5rem;
