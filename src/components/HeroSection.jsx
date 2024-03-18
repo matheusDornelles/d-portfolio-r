@@ -10,11 +10,7 @@ export default function HeroSection() {
                 Franquias
             </h1>
             <p className="hero--section-description">
-            Em expansão de franquias tive a oportunidade de agregar conhecimentos em 
-            Marketing Estratégico para Franqueadoras, prospecção outbound, 
-            prospecção inbound, técnicas de pré-qualificação de candidatos 
-            a investidores, além de conhecimentos sobre reuniões, fechamentos, elaboração de DRE's e Coffees.
-            Ainda, atuei com os seguintes CRMS: RD Station, Kommo e Funil de Vendas.
+            Olá! Eu sou a Rayssa! Sou advogada, formada em Direito pela Universidade Católica de Pernambuco, mas trabalho com vendas há mais de 10 anos. Atualmente atuo com Expansão de Franquias há 02 anos, período em que tive clientes como a R9 Ronaldo Academy, Dentz, Chopperia Germânia, Mapa da Mina e a Via Direta.
 
             
               <br /> 
