@@ -9,15 +9,13 @@ export default function AboutMe() {
             
             <h1 className="skills-section--heading">Sobre</h1>
             <p className="hero--section-description">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-              officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-              recusandae? Voluptatem, reprehenderit alias? Eligendi aperiam
-              tempora numquam sint odit optio.
+            Em expansão de franquias conheci desde o Marketing Estratégico para franqueadoras, 
+            prospecção outbound, inbound, atuação como inside sales em pré qualificação de candidatos 
+            a investidores, conhecimento sobre reuniões e fechamentos, DRE, e Coffees. 
+            
             </p>
             <p className="hero--section-description">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-              officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-              recusandae?
+            Ainda atuei com os seguintes crms: RD Station, Kommo e Funil de Vendas.
             </p>
           </div>
         </div>

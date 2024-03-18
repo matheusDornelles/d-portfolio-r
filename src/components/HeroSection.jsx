@@ -5,16 +5,22 @@ export default function HeroSection() {
           <div className="hero--section--content">
             <p className="section--title">Olá, Sou a Rayssa</p>
             <h1 className="hero--section--title">
-              <span className="hero--section-title--color">BDR/SDR</span>{" "}
+              <span className="hero--section-title--color">Especialista em expansão de</span>{" "}
               <br />
-                Closer
+                Franquias
             </h1>
             <p className="hero--section-description">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              <br /> Dolorum, quas. Amet soluta assumenda cum?
+            Em expansão de franquias tive a oportunidade de agregar conhecimentos em 
+            Marketing Estratégico para Franqueadoras, prospecção outbound, 
+            prospecção inbound, técnicas de pré-qualificação de candidatos 
+            a investidores, além de conhecimentos sobre reuniões, fechamentos, elaboração de DRE's e Coffees.
+            Ainda, atuei com os seguintes CRMS: RD Station, Kommo e Funil de Vendas.
+
+            
+              <br /> 
             </p>
           </div>
-          <button className="btn btn-primary">Get In Touch</button>
+      
         </div>
         <div className="hero--section--img">
           <img src="./img/about-me.png" alt="Hero Section" />
