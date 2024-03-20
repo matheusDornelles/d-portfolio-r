@@ -10,10 +10,8 @@ export default function HeroSection() {
                 Franquias
             </h1>
             <p className="hero--section-description">
-            Sou advogada, formada em Direito pela Universidade Católica de Pernambuco, 
-            mas trabalho com vendas há mais de 10 anos. Atualmente, atuo com Expansão de
-            Franquias há 02 anos, período em que tive clientes como a R9 Ronaldo Academy, 
-            Dentz, Chopperia Germânia, Mapa da Mina e a Via Direta.
+      
+            Sou advogada, formada em Direito pela Universidade Católica de Pernambuco, e trabalho com vendas há mais de 10 anos. Atualmente, atuo com Expansão de Franquias, e na minha trajetória já tive clientes como a R9 Ronaldo Academy, Dentz, Lig Chopp Germânia, Mapa da Mina e a Via Direta.
               <br /> 
             </p>
           </div>
